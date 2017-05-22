@@ -2,7 +2,7 @@
 
 title.tik patcher for Wii U (OS X and linux) 
 
-##Usage :
+## Usage :
 
 Linux and Mac :
 
