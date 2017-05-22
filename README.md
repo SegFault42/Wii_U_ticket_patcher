@@ -10,11 +10,11 @@ Linux and Mac :
 
 2) Extract  from .zip in Desktop
 
-3) Copy your title.tik in Wii_U_ticket_patcher_v0.1 folder.
+3) Copy your title.tik in Wii_U_ticket_patcher_v0.1 folder
 
 4) Open a terminal
 
-5) Go to the 3DS_nand_validator folder
+5) Go to the Wii_U_ticket_patcher_v0.1 folder
 
 ```bash
 cd ~/Desktop/Wii_U_ticket_patcher_v0.1
