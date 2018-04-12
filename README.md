@@ -1,5 +1,7 @@
 # Wii_U_ticket_patcher
 
+[![HitCount](http://hits.dwyl.io/SegFault42/https://github.com/SegFault42/3ds_nand_validator.svg)](http://hits.dwyl.io/SegFault42/https://github.com/SegFault42/3ds_nand_validator)
+
 title.tik patcher for Wii U (OS X and linux) 
 
 ## Usage :
